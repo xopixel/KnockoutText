@@ -1,7 +1,7 @@
 # KnockoutText
 Knockout Text Tutorial With CSS3
 [Read the article](http://xopixel.com/responsive-knockout-text-with-css3/) on XO PIXEL
-[View the demo]()
+& [View the demo]()
 
 ## License
 Read the License and Terms of Use [here]()
