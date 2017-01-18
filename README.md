@@ -4,7 +4,7 @@ Knockout Text Tutorial With CSS3
 & [View the demo](http://xopixel.com/demo/Responsive%20Knockout%20Text%20With%20CSS3/)
 
 ## License
-Read the License and Terms of Use [here]()
+Read the License & Terms of Use [here]()
 
 ## Credits
 - Drake [‘Views’ Image](http://www.stereogum.com/1874328/drakes-views-will-be-on-pandora-today/news/)
