@@ -12,6 +12,6 @@ Read the License and Terms of Use [here]()
 - Oswald Font by [Google Fonts](https://fonts.google.com/)
 
 ## Follow XO PIXEL
-Follow XO PIXEL: [Twitter] (https://twitter.com/xopixell), [Facebook] (https://www.facebook.com/xopixell), [GitHub] (https://github.com/xopixel), [Pinterest] (https://www.pinterest.com/xopixel/), [Instagram] (https://www.instagram.com/xopixell/)
+Follow XO PIXEL on [Twitter] (https://twitter.com/xopixell), [Facebook] (https://www.facebook.com/xopixell), [GitHub] (https://github.com/xopixel), [Pinterest] (https://www.pinterest.com/xopixel/), [Instagram] (https://www.instagram.com/xopixell/)
 
 [© XO PIXEL 2017](http://www.xopixel.com)
